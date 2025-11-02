@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Cosmetic Product Safety Analysis (Machine Learning & AI)",
+    "imageSrc": "/assets/projects/cosmetic_safety.png",
+    "details": [
+      "Developed a Python-based data analysis pipeline to detect harmful synthetic ingredients in marketed 'clean' beauty products.",
+      "Integrated a safety scoring system (0–10) into the pipeline to quantify ingredient risk levels across multiple datasets.",
+      "Created data visualizations to reveal a 73% discrepancy between product marketing claims and actual ingredient safety.",
+      "Collaborated in a 3-person team to ensure model accuracy and reproducibility through well-documented scripts and pipelines."
+    ],
+    "skills": [
+      "Python",
+      "Pandas",
+      "Matplotlib",
+      "Machine Learning",
+      "Data Pipelines",
+      "Statistical Analysis",
+      "Information Visualization"
+    ],
+    "demo": "",
+    "source": "",
+    "paper": ""
+  },
+
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "/assets/projects/project.png",
+    "details": [
+      "Built with React, React Router DOM, and Tailwind CSS, featuring smooth animations and transitions.",
+      "Implemented dark and light mode toggle with default theme settings.",
+      "Designed a mobile-first, responsive UI with a clean and modern layout.",
+      "Structured content via easily editable JSON configuration files for scalability and flexibility.",
+      "Hosted the website on Netlify, allowing for continuous builds and update pipeline."
+    ],
+    "skills": [
+      "React",
+      "React Router DOM",
+      "Tailwind CSS",
+      "Responsive Design",
+      "Mobile-First Development",
+      "Dark/Light Mode",
+      "Animations & Transitions",
+      "JSON Configuration",
+      "UI/UX Design",
+      "Netlify"
+    ],
+    "demo": "https://skakkar.netlify.app/",
+    "source": "https://github.com/AyanImran20/personal_portfolio_website.git",
+    "paper": ""
+  }
+]

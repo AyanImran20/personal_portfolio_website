@@ -1,0 +1,108 @@
+[
+  {
+    "id": "patientfirstai_intern_2025",
+    "companyName": "Patient First.AI",
+    "companyWebsite": "https://www.linkedin.com/company/patientfirstai/",
+    "position": "Data Analyst Intern",
+    "logoPath": "/assets/experience/patientfirstai_logo.png",
+    "description": "Supported a health-tech platform by redesigning multi-state immunization upload flows, documenting state registry APIs, and building a prioritization framework that guided go-to-market outreach.",
+    "duration": "July 2025 - August 2025",
+    "responsibilities": [
+      "Redesigned and prototyped a multi-state immunization record upload interface in Figma to improve usability and reduce input errors.",
+      "Reviewed and documented 50 U.S. state immunization registry APIs, classifying authentication methods, messaging standards, and integration complexity on a 1–5 scale.",
+      "Built an integration readiness matrix to help sales prioritize high-opportunity states and sequence partnership outreach."
+    ],
+    "achievements": [
+      "Increased immunization record accessibility by 35% and reduced user error rates by 28% via the redesigned upload interface.",
+      "Identified 8 high-opportunity states through the readiness matrix, directly informing the partnership plan."
+    ],
+    "technologies": [
+      "Python",
+      "SQL",
+      "Figma",
+      "Matplotlib",
+      "MS Excel",
+      "API Documentation",
+      "Data Visualization",
+      "Stata"
+    ],
+    "recommendations": []
+  },
+  {
+    "id": "mcb_bank_intern_2024",
+    "companyName": "MCB Bank",
+    "companyWebsite": "https://www.mcb.com.pk/",
+    "position": "Corporate Finance Intern",
+    "logoPath": "/assets/experience/mcb_logo.png",
+    "description": "Supported corporate finance reporting, competitor analysis, and workflow automation for leadership insights.",
+    "duration": "May 2024 - August 2024",
+    "responsibilities": [
+      "Analyzed balance sheets, income statements, and other reports to produce executive summaries for senior leadership.",
+      "Collaborated with a 4-person team to review competitor financials and compile an industry outlook for the EMEA region.",
+      "Automated recurring reconciliation and reporting workflows in Flexcube to improve speed and reliability."
+    ],
+    "achievements": [
+      "Automated 4 key reporting workflows, increasing processing speed by 25% and saving ~10 hours/month.",
+      "Produced 10+ executive-ready report summaries and an EMEA market growth brief for the CIO."
+    ],
+    "technologies": [
+      "Financial Modeling & Analysis",
+      "MS Excel",
+      "Flexcube",
+      "Reporting Automation",
+      "Presentation Development"
+    ],
+    "recommendations": []
+  },
+  {
+    "id": "nicl_summer_intern_2023",
+    "companyName": "National Incubation Center Lahore (LUMS)",
+    "companyWebsite": "https://niclahore.lums.edu.pk/",
+    "position": "Summer Intern",
+    "logoPath": "/assets/experience/nicl_logo.png",
+    "description": "Worked across ecosystem operations, investor relations support, and program benchmarking to strengthen accelerator offerings.",
+    "duration": "May 2023 - August 2023",
+    "responsibilities": [
+      "Coordinated logistics for NICL’s capstone Investor Summit with 10 startups pitching to 50 investors.",
+      "Assessed startup needs and tracked mentorship structures across 5 global accelerators to refine NICL’s Foundry Program.",
+      "Benchmarked services and investor-training curricula against 7 global programs and proposed enhancements."
+    ],
+    "achievements": [
+      "Ensured seamless Investor Summit execution and facilitated investor-startup connections.",
+      "Delivered benchmarking recommendations to align the Foundry Program with international best practices."
+    ],
+    "technologies": [
+      "Program Benchmarking",
+      "Event Operations",
+      "Stakeholder Coordination",
+      "Research & Analysis",
+      "MS Excel",
+      "Presentation Writing"
+    ],
+    "recommendations": []
+  },
+  {
+    "id": "psa_leadership_2023_present",
+    "companyName": "Pakistani Student Association — Northeastern University",
+    "companyWebsite": "https://northeastern.campuslabs.com/engage/organization/psa", 
+    "position": "Member (Events & Engagement)",
+    "logoPath": "/assets/experience/psa_logo.png",
+    "description": "Campus involvement focused on cultural programming, event logistics, and community engagement.",
+    "duration": "September 2023 – Present",
+    "responsibilities": [
+      "Co-organized a major cultural celebration (350+ attendees), coordinating speakers and on-site operations.",
+      "Developed a cross-channel engagement campaign across social and campus platforms to boost reach and retention."
+    ],
+    "achievements": [
+      "Increased event attendance by 47% and improved retention by 38% through targeted engagement initiatives."
+    ],
+    "technologies": [
+      "Event Coordination",
+      "Campaign Strategy",
+      "Community Engagement",
+      "Social Media",
+      "Content Planning"
+    ],
+    "recommendations": []
+  }
+]
