@@ -46,7 +46,7 @@ const Header = () => {
   const mainMenu = (
     <nav
       className="z-40 bg-card sticky top-0 w-full flex justify-between lg:p-5 p-2 text-sm shadow-sm box-border"
-      style={{ height: "4rem" }}
+      style={{ height: "5rem" }}
     >
       <Link to={"/"} className="h-max-full flex justify-center">
         <img
