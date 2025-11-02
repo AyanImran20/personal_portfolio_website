@@ -143,8 +143,8 @@ const About = () => {
           </div>
           <div className="w-full hidden lg:flex justify-center items-center">
             <a
-              href="/Sarthak_Kakkar_resume.pdf"
-              download="Sarthak_Kakkar_resume.pdf"
+              href="/Ayan_Imran_Resume.pdf"
+              download="Ayan_Imran_Resume.pdf"
               className="
             bg-surface p-2 px-6 font-bold rounded shadow
             transition-all hover:scale-[1.2] duration-300 hover:shadow-bg
