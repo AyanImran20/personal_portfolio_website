@@ -12,7 +12,7 @@ const Contact = () => {
     const formData = new FormData(form);
 
     const payload = {
-      access_key: "f0a9c74c-17ce-42b7-b31f-4b79d1772174",
+      access_key: "66558b15-9373-4ae7-b81a-de551a7a09cf",
       subject: "New message from portfolio site",
       replyto: formData.get("email") || "",
       name: formData.get("name") || "",
