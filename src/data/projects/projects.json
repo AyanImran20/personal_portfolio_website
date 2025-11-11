@@ -1,5 +1,37 @@
 [
   {
+    "title": "AI Powered Communication Assistant",
+    "imageSrc": "/assets/projects/ai_com.jpg",
+    "details": [
+      "Developed an AI-driven chat workflow to streamline professional profile inquiries and automate context-aware follow-ups.",
+      "Implemented real-time AI notifications delivering inquiry details (name, email, and message summaries) for rapid response and engagement.",
+      "Built with LangChain, LangGraph, and LangServe, leveraging the supervisor architecture for multi-agent coordination.",
+      "Deployed a FastAPI backend as a Docker container on AWS App Runner, ensuring scalability and stateless concurrency handling.",
+      "Hosted the React + Vite frontend on Netlify, integrated securely with the AWS backend via CORS and environment-based API routing.",
+      "Managed environment variables, secrets, and deployment pipelines through AWS ECR, enabling reproducible and portable cloud builds."
+    ],
+    "skills": [
+      "AWS App Runner",
+      "AWS Elastic Container Registry",
+      "Docker",
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "LangServe",
+      "Supervisor Architecture",
+      "Large Language Models (LLMs)",
+      "Workflow Automation",
+      "Notification Systems",
+      "Streamlit",
+      "User Interface Design",
+      "Real-Time Communication"
+    ],
+    "demo": "https://communicationagent.netlify.app/",
+    "source": "https://github.com/AyanImran20/AI_communication_assistant",
+    "paper": ""
+  },
+
+  {
     "title": "Cosmetic Product Safety Analysis (Machine Learning & AI)",
     "imageSrc": "/assets/projects/cosmetic_safety.png",
     "details": [
