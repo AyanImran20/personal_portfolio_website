@@ -32,6 +32,37 @@
   },
 
   {
+    "title": "Olympic Games Visual Analysis (DS4200)",
+    "imageSrc": "/assets/projects/olympics_viz.png",
+    "details": [
+      "Built an interactive data visualization website analyzing 35,000+ Summer Olympic medal records from 1896 to present using D3.js, Plotly, and JavaScript.",
+      "Designed 7 coordinated visualizations including choropleth maps, animated bar charts, brushing scatter plots, and heatmaps to explore country performance, gender participation, and sport trends.",
+      "Implemented interactive features such as year sliders, lasso selection, hover tooltips, and animated transitions for exploratory data analysis.",
+      "Merged and cleaned multiple datasets (athlete records, country metadata, GDP per capita, ISO codes) using Python and Pandas to create a unified analysis-ready dataset.",
+      "Collaborated in a 3-person team, leading interactive dashboard development and website integration using HTML, CSS, and JavaScript.",
+      "Deployed the project on GitHub Pages with a responsive, dark-themed UI designed for readability and engagement."
+    ],
+    "skills": [
+      "D3.js",
+      "Plotly",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Pandas",
+      "Data Visualization",
+      "Information Visualization",
+      "Choropleth Maps",
+      "Interactive Dashboards",
+      "Data Cleaning",
+      "GitHub Pages"
+    ],
+    "demo": "https://ayanimran20.github.io/DS4200-Olympics-Project/",
+    "source": "https://github.com/AyanImran20/DS4200-Olympics-Project.git",
+    "paper": ""
+  },
+
+  {
     "title": "Cosmetic Product Safety Analysis (Machine Learning & AI)",
     "imageSrc": "/assets/projects/cosmetic_safety.png",
     "details": [

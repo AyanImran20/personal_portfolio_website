@@ -1,5 +1,33 @@
 [
   {
+    "id": "haulo_founder_2026_present",
+    "companyName": "Haulo",
+    "companyWebsite": "https://gethaulo.com",
+    "position": "Founder & Developer",
+    "logoPath": "/assets/experience/haulo.png",
+    "description": "Built and launched a student furniture marketplace with AI-powered listing generation, integrated delivery, and real-time messaging to streamline campus buying and selling.",
+    "duration": "February 2026 – Present",
+    "responsibilities": [
+      "Built and launched a student furniture marketplace using Next.js, TypeScript, Supabase, and Stripe, featuring AI-powered listing generation via Claude Vision that reduces listing time from 5+ minutes to 60 seconds.",
+      "Designed a managed marketplace model with integrated delivery, commission processing, and real-time buyer-seller messaging to keep transactions on-platform.",
+      "Led go-to-market across Boston campuses through direct outreach, campus partnerships, and social media."
+    ],
+    "achievements": [
+      "Acquired around 100 listings and transactions through targeted campus outreach and partnerships."
+    ],
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Supabase",
+      "Stripe",
+      "Claude Vision API",
+      "Tailwind CSS",
+      "Real-time Messaging",
+      "Go-to-Market Strategy"
+    ],
+    "recommendations": []
+  },
+  {
     "id": "patientfirstai_intern_2025",
     "companyName": "Patient First.AI",
     "companyWebsite": "https://www.linkedin.com/company/patientfirstai/",
@@ -63,8 +91,8 @@
     "description": "Worked across ecosystem operations, investor relations support, and program benchmarking to strengthen accelerator offerings.",
     "duration": "May 2023 - August 2023",
     "responsibilities": [
-      "Coordinated logistics for NICL’s capstone Investor Summit with 10 startups pitching to 50 investors.",
-      "Assessed startup needs and tracked mentorship structures across 5 global accelerators to refine NICL’s Foundry Program.",
+      "Coordinated logistics for NICL's capstone Investor Summit with 10 startups pitching to 50 investors.",
+      "Assessed startup needs and tracked mentorship structures across 5 global accelerators to refine NICL's Foundry Program.",
       "Benchmarked services and investor-training curricula against 7 global programs and proposed enhancements."
     ],
     "achievements": [
@@ -84,7 +112,7 @@
   {
     "id": "psa_leadership_2023_present",
     "companyName": "Pakistani Student Association — Northeastern University",
-    "companyWebsite": "https://northeastern.campuslabs.com/engage/organization/psa", 
+    "companyWebsite": "https://northeastern.campuslabs.com/engage/organization/psa",
     "position": "Member (Events & Engagement)",
     "logoPath": "/assets/experience/psa_logo.png",
     "description": "Campus involvement focused on cultural programming, event logistics, and community engagement.",
