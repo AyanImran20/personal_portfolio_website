@@ -1,5 +1,30 @@
 [
   {
+    "id": "goodwin_coop_2026_present",
+    "companyName": "Goodwin",
+    "companyWebsite": "https://www.goodwinlaw.com/",
+    "position": "AI Operations Co-op",
+    "logoPath": "/assets/experience/goodwin_logo.png",
+    "description": "Supported operations at a leading global law firm by designing AI-agent and Excel-based automation to streamline recurring workflows and improve data accuracy, tracking, and reporting.",
+    "duration": "July 2026 – Present",
+    "responsibilities": [
+      "Designed an AI agent to centralize operational knowledge at a leading global law firm, structuring internal process documentation into reusable knowledge for consistent handling of recurring service requests.",
+      "Built an Excel VBA and macro-based workflow to automate recurring operational tracking, standardizing repetitive data processing, status tracking, and reporting while cutting ~5 hours of manual work per week.",
+      "Migrated ~3,000 legacy badge records into a standardized Power Query workflow to support the firm's transition to mobile badging, improving data consistency and reducing manual reconciliation across systems."
+    ],
+    "achievements": [],
+    "technologies": [
+      "Excel VBA",
+      "Macros",
+      "Power Query",
+      "AI Agents",
+      "Process Automation",
+      "Data Analysis",
+      "Reporting"
+    ],
+    "recommendations": []
+  },
+  {
     "id": "haulo_founder_2026_present",
     "companyName": "Haulo",
     "companyWebsite": "https://gethaulo.com",
@@ -8,9 +33,8 @@
     "description": "Built and launched a student furniture marketplace with AI-powered listing generation, integrated delivery, and real-time messaging to streamline campus buying and selling.",
     "duration": "February 2026 – Present",
     "responsibilities": [
-      "Built and launched a student furniture marketplace using Next.js, TypeScript, Supabase, and Stripe, featuring AI-powered listing generation via Claude Vision that reduces listing time from 5+ minutes to 60 seconds.",
-      "Designed a managed marketplace model with integrated delivery, commission processing, and real-time buyer-seller messaging to keep transactions on-platform.",
-      "Led go-to-market across Boston campuses through direct outreach, campus partnerships, and social media."
+      "Built and launched a student furniture marketplace (Next.js, TypeScript, Supabase, Stripe) with AI-powered listing generation via Claude Vision, cutting listing time from 5+ minutes to under 60 seconds — an ~80% reduction.",
+      "Designed a managed-marketplace model with integrated delivery, commission processing, and buyer–seller messaging, then drove go-to-market across Boston campuses through outreach, partnerships, and social media."
     ],
     "achievements": [
       "Acquired around 100 listings and transactions through targeted campus outreach and partnerships."
@@ -36,9 +60,8 @@
     "description": "Supported a health-tech platform by redesigning multi-state immunization upload flows, documenting state registry APIs, and building a prioritization framework that guided go-to-market outreach.",
     "duration": "July 2025 - August 2025",
     "responsibilities": [
-      "Redesigned and prototyped a multi-state immunization record upload interface in Figma to improve usability and reduce input errors.",
-      "Reviewed and documented 50 U.S. state immunization registry APIs, classifying authentication methods, messaging standards, and integration complexity on a 1–5 scale.",
-      "Built an integration readiness matrix to help sales prioritize high-opportunity states and sequence partnership outreach."
+      "Assessed technical integration viability across 50 state immunization registries, scoring each on authentication, messaging standards, and complexity (1 to 5) to build a consistent framework for screening partnership targets.",
+      "Redesigned and prototyped a multistate immunization upload interface in Figma, restructuring the submission flow and validation steps to cut user error by 28% and improve record accessibility by 35% in usability testing."
     ],
     "achievements": [
       "Increased immunization record accessibility by 35% and reduced user error rates by 28% via the redesigned upload interface.",
@@ -60,25 +83,23 @@
     "id": "mcb_bank_intern_2024",
     "companyName": "MCB Bank",
     "companyWebsite": "https://www.mcb.com.pk/",
-    "position": "Corporate Finance Intern",
+    "position": "Asset Management Intern",
     "logoPath": "/assets/experience/mcb_logo.png",
-    "description": "Supported corporate finance reporting, competitor analysis, and workflow automation for leadership insights.",
+    "description": "Supported management of the Pakistan Income Fund, a ~PKR 11.65B fixed-income mutual fund, through NAV analysis, peer benchmarking, and SECP/MUFAP regulatory reporting.",
     "duration": "May 2024 - August 2024",
     "responsibilities": [
-      "Analyzed balance sheets, income statements, and other reports to produce executive summaries for senior leadership.",
-      "Collaborated with a 4-person team to review competitor financials and compile an industry outlook for the EMEA region.",
-      "Automated recurring reconciliation and reporting workflows in Flexcube to improve speed and reliability."
+      "Monitored the Pakistan Income Fund (PIF), a mutual fund with ~PKR 11.65 billion (~$42M) in AUM, conducting NAV analysis and benchmarking performance against peer income funds to inform investment decisions.",
+      "Prepared fund fact sheets, daily NAV reports, and regulatory filings for PIF in compliance with SECP and MUFAP requirements, ensuring accurate and timely disclosures to investors and regulators.",
+      "Collaborated with research and dealing teams to execute PIF's fixed-income strategy across government securities and corporate debt, contributing to a ~17.3% one-year return that outperformed peer income funds."
     ],
-    "achievements": [
-      "Automated 4 key reporting workflows, increasing processing speed by 25% and saving ~10 hours/month.",
-      "Produced 10+ executive-ready report summaries and an EMEA market growth brief for the CIO."
-    ],
+    "achievements": [],
     "technologies": [
       "Financial Modeling & Analysis",
+      "NAV Analysis",
+      "Fixed Income",
       "MS Excel",
       "Flexcube",
-      "Reporting Automation",
-      "Presentation Development"
+      "Regulatory Reporting"
     ],
     "recommendations": []
   },
@@ -130,6 +151,27 @@
       "Community Engagement",
       "Social Media",
       "Content Planning"
+    ],
+    "recommendations": []
+  },
+  {
+    "id": "econpress_editorial_2023_present",
+    "companyName": "Northeastern EconPress",
+    "companyWebsite": "",
+    "position": "Editorial Team",
+    "logoPath": "/assets/experience/econpress_logo.png",
+    "description": "Member of the editorial team for a student-run economics publication, reviewing articles and shaping coverage of economic and market topics.",
+    "duration": "September 2023 – Present",
+    "responsibilities": [
+      "Reviewed and edited articles on economic and market topics, sharpening arguments and ensuring analytical accuracy.",
+      "Evaluated article pitches and refined writers' coverage of economic and financial trends."
+    ],
+    "achievements": [],
+    "technologies": [
+      "Editing",
+      "Economic Research",
+      "Writing",
+      "Content Review"
     ],
     "recommendations": []
   }

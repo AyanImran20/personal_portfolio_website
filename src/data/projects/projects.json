@@ -1,5 +1,30 @@
 [
   {
+    "title": "Facility Intelligence Platform",
+    "imageSrc": "/assets/projects/facility_platform.png",
+    "details": [
+      "Designed and deployed a production-grade AI operations platform with four autonomous agents that categorize and route facility requests, achieving 98% classification accuracy at $0.0046 per decision.",
+      "Implemented semantic duplicate detection using sentence-transformers and a ChromaDB vector index, reaching 20ms warm-query latency at zero additional API cost.",
+      "Built responsible-AI safeguards including PII redaction, human-in-the-loop approval, and audit logging to support safe and ethical deployment."
+    ],
+    "skills": [
+      "Python",
+      "AI Agents",
+      "Large Language Models (LLMs)",
+      "ChromaDB",
+      "sentence-transformers",
+      "Vector Search",
+      "Semantic Similarity",
+      "PII Redaction",
+      "Human-in-the-Loop",
+      "Workflow Automation"
+    ],
+    "demo": "",
+    "source": "",
+    "paper": ""
+  },
+
+  {
     "title": "AI Powered Communication Assistant",
     "imageSrc": "/assets/projects/ai_com.jpg",
     "details": [

@@ -18,11 +18,10 @@ const About = () => {
             Ayan Imran
           </h1>
           <p className="font-extralight text-base lg:text-xl text-center lg:text-left ">
-            I am data analyst and economics student specializing in data modeling, machine learning, and computational analysis. 
-            My work spans building Python-based data pipelines for large-scale ingredient safety classification, developing API-driven systems 
-            for public health data integration, and automating financial reporting workflows for enterprise use. 
-            At Northeastern University, I’ve applied econometric modeling and data visualization to extract meaningful insights from complex, 
-            real-world datasets — combining technical precision with an understanding of economic systems and human behavior.
+            I'm an Economics and Data Science student working at the intersection of quantitative analysis and finance. 
+            My experience spans building Python-based data pipelines and machine-learning models, supporting a fixed-income mutual fund through NAV analysis and performance benchmarking, 
+            and automating financial reporting workflows for enterprise use. 
+            At Northeastern University, I apply econometric modeling and data visualization to turn complex, real-world datasets into actionable insight — pairing technical precision with an understanding of economic systems and financial markets.
           </p>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:justify-start w-full mt-2 gap-1">
             <div className="group-hover:text-highlight duration-500">
@@ -46,7 +45,7 @@ const About = () => {
                 Northeastern University
               </a>
               <h3>Bachelor of Science in Economics and Data Science</h3>
-              <p>Class of 2026</p>
+              <p>Class of 2027</p>
             </div>
           </div>
         </div>
@@ -193,8 +192,7 @@ const About = () => {
           <h2 className="font-bold text-xl text-center">Data Analysis & Modeling</h2>
           <p className="text-center">
             Proficient in applying statistical modeling and machine learning to analyze complex datasets and uncover actionable insights. 
-            Experienced with Python, Stata, and SQL for quantitative analysis, data cleaning, and predictive modeling 
-            across health, finance, and consumer data.
+            Experienced with Python, Stata, and SQL for quantitative analysis, data cleaning, and predictive modeling across health, finance, and consumer data.
           </p>
         </div>
 
@@ -259,10 +257,8 @@ const About = () => {
           </div>
           <h2 className="font-bold text-xl text-center">Applied Machine Learning</h2>
           <p className="text-center">
-            Capable of developing Python-based pipelines for classification, clustering, and regression tasks.
-             Applied ML techniques to detect synthetic ingredients, evaluate product safety, 
-             and quantify risk using data-driven feature extraction and scoring algorithms.
-            tooling.
+            Capable of developing Python-based pipelines for classification, clustering, and regression tasks. Applied ML techniques to detect synthetic ingredients, 
+            evaluate product safety, and quantify risk using data-driven feature extraction and scoring algorithms.
           </p>
         </div>
 
@@ -307,10 +303,8 @@ const About = () => {
             Economic & Financial Analytics
           </h2>
           <p className="text-center">
-            Experienced in building and interpreting financial models, analyzing macroeconomic indicators, 
-            and performing policy impact assessments. 
-            Strong background in econometrics, public finance, and monetary systems, 
-            with a focus on connecting quantitative outcomes to real-world behavior.
+            Experienced in fixed-income and fund analysis, including NAV analysis, performance benchmarking, and financial modeling, alongside macroeconomic and policy-impact assessment. 
+            Strong background in econometrics, public finance, and monetary systems, connecting quantitative outcomes to financial markets and real-world behavior.
           </p>
         </div>
       </div>
