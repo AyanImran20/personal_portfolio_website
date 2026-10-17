@@ -1,5 +1,26 @@
 [
   {
+    "title": "Rate Cuts and Equity Returns (Research Paper)",
+    "imageSrc": "/assets/projects/rate_cuts_paper.png",
+    "details": [
+      "Authored an independent research paper analyzing how monetary policy affects equity returns across U.S. and emerging markets.",
+      "Used an event-study framework around Federal Reserve and State Bank of Pakistan rate decisions to measure stock reactions in the window around each cut.",
+      "Found that equity reactions track the surprise relative to priced-in expectations and the macroeconomic regime rather than the rate change itself.",
+      "Contrasted the muted U.S. S&P 500 reactions with the KSE-100's ~89% return during Pakistan's 2024-2026 easing cycle to illustrate the emerging-market amplifier."
+    ],
+    "skills": [
+      "Monetary Policy",
+      "Equity Markets",
+      "Event-Study Analysis",
+      "Financial Economics",
+      "Econometrics",
+      "Research & Writing"
+    ],
+    "demo": "",
+    "source": "",
+    "paper": "/assets/papers/Rate_Cuts_and_Equity_Returns.pdf"
+  },
+  {
     "title": "Facility Intelligence Platform",
     "imageSrc": "/assets/projects/facility_platform.png",
     "details": [
@@ -23,7 +44,6 @@
     "source": "",
     "paper": ""
   },
-
   {
     "title": "AI Powered Communication Assistant",
     "imageSrc": "/assets/projects/ai_com.jpg",
@@ -55,7 +75,6 @@
     "source": "https://github.com/AyanImran20/AI_communication_assistant",
     "paper": ""
   },
-
   {
     "title": "Olympic Games Visual Analysis (DS4200)",
     "imageSrc": "/assets/projects/olympics_viz.png",
@@ -86,13 +105,12 @@
     "source": "https://github.com/AyanImran20/DS4200-Olympics-Project.git",
     "paper": ""
   },
-
   {
     "title": "Cosmetic Product Safety Analysis (Machine Learning & AI)",
     "imageSrc": "/assets/projects/cosmetic_safety.png",
     "details": [
       "Developed a Python-based data analysis pipeline to detect harmful synthetic ingredients in marketed 'clean' beauty products.",
-      "Integrated a safety scoring system (0–10) into the pipeline to quantify ingredient risk levels across multiple datasets.",
+      "Integrated a safety scoring system (0-10) into the pipeline to quantify ingredient risk levels across multiple datasets.",
       "Created data visualizations to reveal a 73% discrepancy between product marketing claims and actual ingredient safety.",
       "Collaborated in a 3-person team to ensure model accuracy and reproducibility through well-documented scripts and pipelines."
     ],
@@ -109,7 +127,6 @@
     "source": "",
     "paper": ""
   },
-
   {
     "title": "Portfolio Website",
     "imageSrc": "/assets/projects/project.png",

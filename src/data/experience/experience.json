@@ -8,7 +8,7 @@
     "description": "Supported operations at a leading global law firm by designing AI-agent and Excel-based automation to streamline recurring workflows and improve data accuracy, tracking, and reporting.",
     "duration": "July 2026 – Present",
     "responsibilities": [
-      "Designed an AI agent to centralize operational knowledge at a leading global law firm, structuring internal process documentation into reusable knowledge for consistent handling of recurring service requests.",
+      "Designed an AI agent to centralize operational knowledge at a leading global law firm, structuring internal process documentation into a reusable reference base for consistent handling of recurring service requests.",
       "Built an Excel VBA and macro-based workflow to automate recurring operational tracking, standardizing repetitive data processing, status tracking, and reporting while cutting ~5 hours of manual work per week.",
       "Migrated ~3,000 legacy badge records into a standardized Power Query workflow to support the firm's transition to mobile badging, improving data consistency and reducing manual reconciliation across systems."
     ],
@@ -33,11 +33,11 @@
     "description": "Built and launched a student furniture marketplace with AI-powered listing generation, integrated delivery, and real-time messaging to streamline campus buying and selling.",
     "duration": "February 2026 – Present",
     "responsibilities": [
-      "Built and launched a student furniture marketplace (Next.js, TypeScript, Supabase, Stripe) with AI-powered listing generation via Claude Vision, cutting listing time from 5+ minutes to under 60 seconds — an ~80% reduction.",
-      "Designed a managed-marketplace model with integrated delivery, commission processing, and buyer–seller messaging, then drove go-to-market across Boston campuses through outreach, partnerships, and social media."
+      "Launched a student furniture marketplace (Next.js, TypeScript, Supabase, Stripe) with AI-powered listing generation via Claude Vision that auto-fills item titles, descriptions, and pricing, cutting listing time from 5+ minutes to under 60 seconds, a ~80% reduction.",
+      "Created a managed-marketplace model with integrated delivery, commission processing, and buyer-seller messaging, then drove go-to-market across Boston campuses to reach 100+ listings and ~$4.3K in transaction volume."
     ],
     "achievements": [
-      "Acquired around 100 listings and transactions through targeted campus outreach and partnerships."
+      "Reached 100+ listings and ~$4.3K in transaction volume through targeted campus outreach and partnerships."
     ],
     "technologies": [
       "Next.js",
@@ -48,6 +48,30 @@
       "Tailwind CSS",
       "Real-time Messaging",
       "Go-to-Market Strategy"
+    ],
+    "recommendations": []
+  },
+  {
+    "id": "mcb_bank_intern_2026",
+    "companyName": "MCB Bank",
+    "companyWebsite": "https://www.mcbfunds.com/",
+    "position": "Asset Management Intern, Mutual Funds Division",
+    "logoPath": "/assets/experience/mcb_logo.png",
+    "description": "Supported the MCB Pakistan Stock Market Fund, an open-end equity fund benchmarked to the KSE-100, through NAV analysis, performance benchmarking, equity research, and SECP/MUFAP regulatory reporting.",
+    "duration": "May 2026 – July 2026",
+    "responsibilities": [
+      "Supported the MCB Pakistan Stock Market Fund, an open-end equity fund with ~PKR 38.8B (~$137M) in AUM, conducting daily NAV analysis and tracking performance against the KSE-100 and peer equity funds.",
+      "Prepared fund fact sheets, daily NAV reports, and periodic regulatory filings in compliance with SECP and MUFAP requirements, ensuring accurate and timely disclosures to investors and regulators.",
+      "Researched listed Pakistani equities across sectors including banks and cements to support the fund's active stock-selection process, during a period in which the fund returned ~51% against a ~44% benchmark (KSE-100)."
+    ],
+    "achievements": [],
+    "technologies": [
+      "Equity Research",
+      "NAV Analysis",
+      "Performance Benchmarking",
+      "Financial Modeling & Analysis",
+      "MS Excel",
+      "Regulatory Reporting"
     ],
     "recommendations": []
   },
@@ -76,30 +100,6 @@
       "API Documentation",
       "Data Visualization",
       "Stata"
-    ],
-    "recommendations": []
-  },
-  {
-    "id": "mcb_bank_intern_2024",
-    "companyName": "MCB Bank",
-    "companyWebsite": "https://www.mcb.com.pk/",
-    "position": "Asset Management Intern",
-    "logoPath": "/assets/experience/mcb_logo.png",
-    "description": "Supported management of the Pakistan Income Fund, a ~PKR 11.65B fixed-income mutual fund, through NAV analysis, peer benchmarking, and SECP/MUFAP regulatory reporting.",
-    "duration": "May 2024 - August 2024",
-    "responsibilities": [
-      "Monitored the Pakistan Income Fund (PIF), a mutual fund with ~PKR 11.65 billion (~$42M) in AUM, conducting NAV analysis and benchmarking performance against peer income funds to inform investment decisions.",
-      "Prepared fund fact sheets, daily NAV reports, and regulatory filings for PIF in compliance with SECP and MUFAP requirements, ensuring accurate and timely disclosures to investors and regulators.",
-      "Collaborated with research and dealing teams to execute PIF's fixed-income strategy across government securities and corporate debt, contributing to a ~17.3% one-year return that outperformed peer income funds."
-    ],
-    "achievements": [],
-    "technologies": [
-      "Financial Modeling & Analysis",
-      "NAV Analysis",
-      "Fixed Income",
-      "MS Excel",
-      "Flexcube",
-      "Regulatory Reporting"
     ],
     "recommendations": []
   },
@@ -163,8 +163,8 @@
     "description": "Member of the editorial team for a student-run economics publication, reviewing articles and shaping coverage of economic and market topics.",
     "duration": "September 2023 – Present",
     "responsibilities": [
-      "Reviewed and edited articles on economic and market topics, sharpening arguments and ensuring analytical accuracy.",
-      "Evaluated article pitches and refined writers' coverage of economic and financial trends."
+      "Selected from 50+ students to review and edit articles on economic and market topics for a student-run publication.",
+      "Served on the editorial team of a student-run economics publication, evaluating pitches and refining coverage."
     ],
     "achievements": [],
     "technologies": [
