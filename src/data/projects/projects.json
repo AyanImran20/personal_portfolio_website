@@ -1,32 +1,32 @@
 [
   {
-    "title": "Rate Cuts and Equity Returns (Research Paper)",
-    "imageSrc": "/assets/projects/rate_cuts_paper.png",
+    "title": "Inflation Shocks and Equity Factor Returns (Research Paper)",
+    "imageSrc": "/assets/projects/inflation_paper.png",
     "details": [
-      "Authored an independent research paper analyzing how monetary policy affects equity returns across U.S. and emerging markets.",
-      "Used an event-study framework around Federal Reserve and State Bank of Pakistan rate decisions to measure stock reactions in the window around each cut.",
-      "Found that equity reactions track the surprise relative to priced-in expectations and the macroeconomic regime rather than the rate change itself.",
-      "Contrasted the muted U.S. S&P 500 reactions with the KSE-100's ~89% return during Pakistan's 2024-2026 easing cycle to illustrate the emerging-market amplifier."
+      "Authored an independent research paper on how the 2022 inflation shock reshaped equity factor returns across U.S. markets.",
+      "Used the 2020 to 2024 period as a natural experiment spanning two opposite interest-rate regimes to isolate how rising rates affect different kinds of stocks.",
+      "Argued that value outperformed growth because growth stocks behave as long-duration assets whose future cash flows are hit hardest when rates rise.",
+      "Framed factor premiums as compensation for risk, explaining both the decade-long value drought and its record reversal in 2022."
     ],
     "skills": [
+      "Equity Factors",
+      "Value vs. Growth",
       "Monetary Policy",
-      "Equity Markets",
-      "Event-Study Analysis",
+      "Inflation & Interest Rates",
       "Financial Economics",
-      "Econometrics",
       "Research & Writing"
     ],
     "demo": "",
     "source": "",
-    "paper": "/assets/papers/Rate_Cuts_and_Equity_Returns.pdf"
+    "paper": "/assets/papers/Inflation_and_Equity_Factors.pdf"
   },
   {
-    "title": "Facility Intelligence Platform",
-    "imageSrc": "/assets/projects/facility_platform.png",
+    "title": "TriageAI",
+    "imageSrc": "/assets/projects/triageai.png",
     "details": [
-      "Designed and deployed a production-grade AI operations platform with four autonomous agents that categorize and route facility requests, achieving 98% classification accuracy at $0.0046 per decision.",
+      "Designed and deployed a production-grade AI operations platform with four autonomous agents that automatically categorize and route facility requests, achieving 98% classification accuracy at $0.0046 per decision.",
       "Implemented semantic duplicate detection using sentence-transformers and a ChromaDB vector index, reaching 20ms warm-query latency at zero additional API cost.",
-      "Built responsible-AI safeguards including PII redaction, human-in-the-loop approval, and audit logging to support safe and ethical deployment."
+      "Engineered responsible-AI safeguards including PII redaction, human-in-the-loop approval, and audit logging to support safe and ethical deployment."
     ],
     "skills": [
       "Python",
